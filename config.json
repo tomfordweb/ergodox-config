@@ -1,3 +1,16 @@
+Infinity Ergodox
+Base
+Layer 1
+Layer 2
+Layer 3
+Layer 4
+Layer 5
+Layer 6
+Layer 7
+Assigned Key
+
+
+Raw Configuration JSON
 {
   "matrix": [
     {
@@ -346,8 +359,8 @@
           "label": "$"
         },
         "3": {
-          "key": "[",
-          "label": "["
+          "key": "#:mouseOut( 0, 0, 5 )",
+          "label": "↑ x5"
         }
       },
       "triggers": null
@@ -802,6 +815,10 @@
         "0": {
           "key": "`",
           "label": "`"
+        },
+        "1": {
+          "key": "\\",
+          "label": "\\"
         }
       },
       "triggers": null
@@ -936,6 +953,10 @@
         "0": {
           "key": "-",
           "label": "-"
+        },
+        "1": {
+          "key": "=",
+          "label": "="
         }
       },
       "triggers": null

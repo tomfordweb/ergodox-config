@@ -1,16 +1,3 @@
-Infinity Ergodox
-Base
-Layer 1
-Layer 2
-Layer 3
-Layer 4
-Layer 5
-Layer 6
-Layer 7
-Assigned Key
-
-
-Raw Configuration JSON
 {
   "matrix": [
     {
@@ -675,8 +662,8 @@ Raw Configuration JSON
       "h": 4,
       "layers": {
         "0": {
-          "key": "LALT",
-          "label": "LALT"
+          "key": "#:Layer[1]",
+          "label": "ƒ1"
         }
       },
       "triggers": null

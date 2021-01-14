@@ -396,8 +396,8 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "LALT",
-          "label": "LALT"
+          "key": "PRINTSCREEN",
+          "label": "PRSC"
         }
       },
       "triggers": null
@@ -410,8 +410,8 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "LCTRL",
-          "label": "LCTRL"
+          "key": "LALT",
+          "label": "LALT"
         }
       },
       "triggers": null
@@ -424,8 +424,8 @@
       "h": 6,
       "layers": {
         "0": {
-          "key": "PREV LAYER",
-          "label": "PREV-ƒ"
+          "key": "\\",
+          "label": "\\"
         }
       },
       "triggers": null
@@ -586,6 +586,10 @@
         "0": {
           "key": "BACKSPACE",
           "label": "BKSP"
+        },
+        "1": {
+          "key": "/",
+          "label": "/"
         }
       },
       "triggers": null
@@ -634,8 +638,8 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "\\",
-          "label": "\\"
+          "key": "NEXT LAYER",
+          "label": "NEXT-ƒ"
         }
       },
       "triggers": null
@@ -648,8 +652,8 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "=",
-          "label": "="
+          "key": "NEXT LAYER",
+          "label": "NEXT-ƒ"
         }
       },
       "triggers": null
@@ -803,9 +807,9 @@
           "key": "`",
           "label": "`"
         },
-        "1": {
-          "key": "\\",
-          "label": "\\"
+        "2": {
+          "key": "/",
+          "label": "/"
         }
       },
       "triggers": null
@@ -1042,8 +1046,8 @@
       "h": 4,
       "layers": {
         "0": {
-          "key": "'",
-          "label": "'"
+          "key": "ENTER",
+          "label": "↵"
         },
         "3": {
           "key": "CONS:PAUSE PLAY",
@@ -1092,8 +1096,8 @@
       "h": 6,
       "layers": {
         "0": {
-          "key": "NEXT LAYER",
-          "label": "NEXT-ƒ"
+          "key": "#:Layer[3]",
+          "label": "ƒ3"
         }
       },
       "triggers": null
@@ -1234,10 +1238,6 @@
         "0": {
           "key": "PAGEDOWN",
           "label": "PGDN"
-        },
-        "1": {
-          "key": "PRINTSCREEN",
-          "label": "PRSC"
         }
       },
       "triggers": null
@@ -1250,8 +1250,8 @@
       "h": 8,
       "layers": {
         "0": {
-          "key": "ENTER",
-          "label": "↵"
+          "key": "'",
+          "label": "'"
         }
       },
       "triggers": null
@@ -1266,10 +1266,6 @@
         "0": {
           "key": "SPACE",
           "label": "[ ]"
-        },
-        "2": {
-          "key": "P0",
-          "label": "P0"
         }
       },
       "triggers": null
